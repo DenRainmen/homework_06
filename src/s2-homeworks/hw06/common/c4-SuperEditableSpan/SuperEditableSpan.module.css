@@ -1,0 +1,15 @@
+.spanBlock {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin: 22px 0;
+}
+
+.span {
+}
+
+.input {
+}
+
+.pen {
+}

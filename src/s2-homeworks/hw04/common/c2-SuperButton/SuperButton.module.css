@@ -1,0 +1,57 @@
+
+
+
+.button {
+	padding: 5px 24px;
+	background: #0066CC;
+	border-radius: 3px;
+	border: none;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
+
+	color: #FFFFFF;
+
+}
+
+.button:active{
+	background: #ff8000;
+}
+
+.red {
+	padding: 5px 24px;
+	
+	border-radius: 3px;
+	border: none;
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 20px;
+
+	color: #FFFFFF;
+	background-color: #d35;
+}
+
+
+.secondary{
+	background-color: transparent;
+	color: #0066CC;
+	border: 1px solid #0066CC
+}
+
+
+.myClass {
+	background: rgb(100, 107, 102);
+
+}
+
+.disabled {
+	opacity: 0.3;
+	color: #002E5C;
+}
+
+
+

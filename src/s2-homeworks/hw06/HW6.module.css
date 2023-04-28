@@ -1,0 +1,11 @@
+.buttonsContainer {
+	display: inline-flex;
+	/* justify-content: space-between; */
+	gap: 24px;
+	padding-top: 16px;
+	
+}
+
+.editableSpanContainer {
+	
+}
